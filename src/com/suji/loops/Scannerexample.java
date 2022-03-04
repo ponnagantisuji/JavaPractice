@@ -1,4 +1,4 @@
-package com.suji.oops;
+package com.suji.loops;
 
 import java.util.Scanner;
 /*Reads two integers 

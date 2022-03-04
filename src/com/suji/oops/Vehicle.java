@@ -2,6 +2,6 @@ package com.suji.oops;
 
 public abstract class Vehicle {
 String color;
-int curSpeed;
+int carSpeed;
 abstract void speedUp(int speed);
 }

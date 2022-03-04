@@ -13,6 +13,8 @@ public class FirstandLastdigit {
        System.out.println("Last  digist is :"+b);
        while(a>=10) {
     	   a/=10;
+    	 //  a=a/10 is same as
+    	   //a= a+10 same as a+=10;
        }  
        System.out.println("First number is :" +a);
        

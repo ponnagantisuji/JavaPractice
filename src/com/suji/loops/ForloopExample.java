@@ -1,4 +1,4 @@
-package com.suji;
+package com.suji.loops;
 
 public class ForloopExample {
 
